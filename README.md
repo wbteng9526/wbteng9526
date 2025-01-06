@@ -6,3 +6,4 @@ My name is Wenbin Teng. I'm a PhD student in Computer Science at USC.
 - 👯 I’m looking to collaborate on rearch projects related to 3D reconstruction and diffusion models
 - 📫 How to reach me: [jerryteng95626@gmail.com](jerryteng95626@gmail.com)
 
+![Wenbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=wbteng9526&show_icons=true&theme=transparent)
